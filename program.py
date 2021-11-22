@@ -1,1 +1,6 @@
 print('ALLAHU AKBAR')
+print('Assalamu Alaykum')
+print('Bismillahir Rahmanir Rahim')
+print('sajedul Islam Chowdhury')
+print('B.Sc Electrical and Electronic Engineering')
+print('Ahsanullah University of Science and Technology')
