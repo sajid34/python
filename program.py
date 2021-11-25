@@ -1,7 +1,9 @@
-print('ALLAHU AKBAR')
-print('Assalamu Alaykum')
-print('Bismillahir Rahmanir Rahim')
-print('sajedul Islam Chowdhury')
-print('B.Sc Electrical and Electronic Engineering')
-print('Ahsanullah University of Science and Technology')
-print('7+4')
+# input Phase
+num1 = int(input("Enter first NUMBER: "))
+num2 = int(input("Enter 2nd Number: "))
+
+#Processing Phase
+result = num1+num2
+
+#Output Phase
+print(result)
